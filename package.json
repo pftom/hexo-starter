@@ -8,8 +8,8 @@
     "deploy": "hexo deploy",
     "server": "hexo server"
   },
-  "hexo": {
-    "version": ""
+  "tuture-hexo": {
+    "version": "^3.9.1"
   },
   "dependencies": {
     "tuture-hexo": "^3.9.1",
